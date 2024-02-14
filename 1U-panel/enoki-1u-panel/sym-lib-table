@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "enoki")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/Enoki-Allen-Synthesis/kicad/enoki.kicad_sym")(options "")(descr ""))
+)
