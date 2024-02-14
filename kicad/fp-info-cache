@@ -1,4 +1,4 @@
-22487253043875543
+22488959068238820
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92551,8 +92551,15 @@ KH-FPC0.5-H2.0SMT-30P-QCH FPC Connector 30 pin
 
 
 0
+30
+30
+allen-synthesis
+USB_C_Vertical_GT-USB-7038X USB
+USB Type C, Vertical, 16 pin
+
 0
-0
+16
+13
 allen-synthesis
 jack-6.35mm-PJ612A
 
