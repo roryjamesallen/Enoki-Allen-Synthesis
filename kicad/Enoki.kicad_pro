@@ -473,7 +473,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "../../../../KiCad/7.0/3rdparty/Allen-Synthesis-KiCad-Library/3dmodels/Enoki.wrl"
+      "vrml": "../../Allen-Synthesis-KiCad-Library/3dmodels/toadstool-tech-enoki-oled.wrl"
     },
     "page_layout_descr_file": ""
   },
